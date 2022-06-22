@@ -1,0 +1,2 @@
+Jogo de nim feito para um trabalho do curso: introdução à ciência da computação
+ com python parte1
